@@ -1,41 +1,33 @@
-# HR-Attrition-Analystics-Dashbord
-An HR Attrition Analytics Dashboard typically provides insights into employee turnover, highlighting factors contributing to attrition within an organization. Here’s a summary of what such a dashboard might include:
+An HR Attrition Analytics Dashboard will normally provide a view of employee outflow, which explains why employees are actually leaving the organization. Here's what the summary of such a dashboard might be:
 
-### **Dashboard Summary: HR Attrition Analytics**
+Summary Dashboard: HR Attrition Analytics
+Attrition Rate Overall
 
-1. **Overall Attrition Rate:**
-   - Displays the percentage of employees who have left the organization over a specific period.
+Calculates the amount of turnover, in other words, how many of your employees have been leaving within a specific time frame.
+Demographic
+ 
+Attrition rate by age group, gender, department, job function, educational qualifications and marital status
+Tenure Analysis:
 
-2. **Demographic Breakdown:**
-   - Attrition rates segmented by age, gender, department, job role, education level, and marital status.
+Highlights Attrition by Length of Service-which groups most likely to leave Performance vs. Attrition:
 
-3. **Tenure Analysis:**
-   - Highlights attrition rates based on employee tenure, showing which groups are most likely to leave.
+Relationship between performance ratings and attrition; to know if the high or low performers are more likely to leave Salary and Compensation:
 
-4. **Performance vs. Attrition:**
-   - Correlation between performance ratings and attrition, identifying if high or low performers are more likely to leave.
+Insights into the impact of salary and compensation on attrition, including dissatisfactions with pay Reasons for Leaving :
 
-5. **Salary and Compensation:**
-   - Insights on how salary and compensation packages impact attrition, highlighting if employees leave due to dissatisfaction with pay.
+Common reasons for leaving which may include better opportunity, dissatisfaction, retirement or relocation Predictive Analytics
 
-6. **Reasons for Leaving:**
-   - Common reasons for leaving, such as better opportunities, dissatisfaction, retirement, or relocation.
+Infers the chances of which employees are likely to leave as attritions from machine learning models based on historical data.
+Departmental Trends:
+ 
+Enlighten the departments that have experienced the greatest loss, and thus the HR can target retention in those departments as well.
+Exit Survey Analysis:
 
-7. **Predictive Analytics:**
-   - Uses machine learning models to predict which employees are at high risk of leaving based on historical data.
+Conducts an analysis from the exit surveys of why they are leaving the organization and how better can those employees be retained.
+Retention Strategies:
 
-8. **Departmental Trends:**
-   - Identifies departments with the highest attrition rates, allowing HR to focus retention efforts on those areas.
-
-9. **Exit Survey Analysis:**
-   - Summarizes feedback from exit surveys to understand why employees are leaving and how to improve retention.
-
-10. **Retention Strategies:**
-    - Suggestions or action plans based on the data to reduce attrition and improve employee satisfaction.
-
-### **Key Insights:**
-- **High-risk Groups:** Identifies the demographic or job roles most likely to leave.
-- **Critical Periods:** Pinpoints when employees are most likely to leave (e.g., after 1-2 years).
-- **Impact of Work-Life Balance:** Measures how work-life balance issues correlate with attrition.
-  
-This dashboard helps HR teams make data-driven decisions to improve employee retention and enhance organizational performance.
+Should be recommendations or action items based on the data, which helps avoid attrition and retain those employees to a maximum extent possible.
+High-Risk Groups: who are the most likely to leave-the demographic or job roles most at risk of leaving.
+Critical Periods: pinpointed when employees tend to leave for example after 1-5 years.
+Work Life Balance Impact: studies if the issues in work and life balance have an impact on attrition.
+This dashboard helps the HR team make data-driven decisions which would then allow and support improvements in retention, thereby contributing to employee and organizational performance. 
